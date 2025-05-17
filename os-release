@@ -1,0 +1,13 @@
+NAME="Fsec Linux"
+PRETTY_NAME="Fsec Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="http://www.farmsec.com/"
+DOCUMENTATION_URL="http://www.farmsec.com"
+SUPPORT_URL="http://www.farmsec.com/"
+BUG_REPORT_URL="http://www.farmsec.com"
+PRIVACY_POLICY_URL="http://www.farmsec.com"
+LOGO=archlinux-logo
+IMAGE_ID=archlinux
+IMAGE_VERSION=2025
